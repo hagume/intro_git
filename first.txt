@@ -4,3 +4,4 @@ Git練習をします。
 3.これもコミットします。
 git status
 git diff
+modifed from github
